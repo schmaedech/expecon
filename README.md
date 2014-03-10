@@ -1,6 +1,6 @@
 Expecon
 =======
-Open-source software for research on neuroeconomy, specifically on decision under risk situations. The simulation is based on the paper by Colin F. Camerer and Martin Weber, The disposition effect in securities trading: an experimental analysis. Journal of Economic Behavior & Organization, vol. 33, 1998. The software was developed as a complement of the mastering in finance research done by Marco Goulart (CNPq scholarship) from Federal University of Santa Catarina. The research was done under supervision of Dr. Newton C. A. da Costa Jr. and the software was developed by Diego Schmaedech and Marco Goulart, software researcher and finance researcher respectively.
+Open-source software for research experience in neuroeconomics, specifically on decision under risk situations. The simulation is based on the paper by Colin F. Camerer and Martin Weber, The disposition effect in securities trading: an experimental analysis. Journal of Economic Behavior & Organization, vol. 33, 1998. The software was developed as a complement of the mastering in finance research done by Marco Goulart (CNPq scholarship) from Federal University of Santa Catarina. The research was done under supervision of Dr. Newton C. A. da Costa Jr. and the software was developed by Diego Schmaedech and Marco Goulart, software researcher and finance researcher respectively.
 
 The project of developing the ExpEcon software surged of the necessity of a simple and customizable system that could allow us to observe the subjects behavior on investment decision making
 

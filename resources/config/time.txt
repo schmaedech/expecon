@@ -1,2 +1,2 @@
 interval(s)|period(u)|timestamp|maxPeriod|
-30|3|HH:MM:SS|10|
+30|3|HH:MM:SS|20|

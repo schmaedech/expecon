@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_neuronio_expecon">
+                <file name="Graphics" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.neuronio.expecon.GraphicsTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.neuronio.expecon//Graphics//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="neuronio">
+                    <folder name="expecon">
+                        <file name="GraphicsTopComponent">
+                            <!--org.neuronio.expecon.GraphicsTopComponent-->
+                            <attr name="settings.providerPath" stringvalue="xml/lookups//org_neuronio_expecon/Graphics.instance"/>
+                        </file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_neuronio_expecon">
+                <file name="Graphics.instance">
+                    <!--org.neuronio.expecon.GraphicsTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.neuronio.expecon.GraphicsTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.neuronio.expecon.GraphicsTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="org-neuronio-expecon-GraphicsTopComponent.shadow">
+                <!--org.neuronio.expecon.GraphicsTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-neuronio-expecon-GraphicsTopComponent.instance"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Components">
+            <file name="GraphicsTopComponent.settings">
+                <!--org.neuronio.expecon.GraphicsTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.neuronio.expecon.GraphicsTopComponent"/>
+</settings>
+]]></file>
+        </folder>
+        <folder name="Modes">
+            <folder name="editor">
+                <file name="GraphicsTopComponent.wstcref">
+                    <!--org.neuronio.expecon.GraphicsTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="GraphicsTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="org-neuronio-expecon-GraphicsTopComponent.instance">
+                <!--org.neuronio.expecon.GraphicsTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.neuronio.expecon.GraphicsTopComponent"/>
+                <attr name="preferredID" stringvalue="GraphicsTopComponent"/>
+                <attr
+                    bundlevalue="org.neuronio.expecon.Bundle#CTL_GraphicsAction" name="displayName"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

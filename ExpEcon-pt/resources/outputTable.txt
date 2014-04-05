@@ -1,0 +1,27 @@
+Dados do adsda
+TABELA DE OPERAÇÕES
+PERIODO	OPERACAO	ATIVO	QUANTIDADE	PREÇO ATUAL
+#-----------------------------------------------------------
+TABELA DA CARTEIRA DE INVESTIMENTOS
+TEMPO	LIVRE PARA OPERAR
+PERIODO	ATIVO	CUSTO DO LOTE	VALOR ATUAL
+Começou---->	Fri Mar 21 18:02:16 BRT 2014	2000.0
+Periodo --> 1	Fri Mar 21 18:02:16 BRT 2014	2000.0
+Periodo --> 2	Fri Mar 21 18:02:17 BRT 2014	2000.0
+Periodo --> 3	Fri Mar 21 18:02:17 BRT 2014	2000.0
+Periodo --> 4	Fri Mar 21 18:02:19 BRT 2014	2000.0
+Periodo --> 5	Fri Mar 21 18:02:21 BRT 2014	2000.0
+Periodo --> 6	Fri Mar 21 18:02:21 BRT 2014	2000.0
+Periodo --> 7	Fri Mar 21 18:02:22 BRT 2014	2000.0
+Periodo --> 8	Fri Mar 21 18:02:22 BRT 2014	2000.0
+Periodo --> 9	Fri Mar 21 18:02:22 BRT 2014	2000.0
+Periodo --> 10	Fri Mar 21 18:02:23 BRT 2014	2000.0
+Periodo --> 11	Fri Mar 21 18:02:23 BRT 2014	2000.0
+Periodo --> 12	Fri Mar 21 18:02:23 BRT 2014	2000.0
+Periodo --> 13	Fri Mar 21 18:02:23 BRT 2014	2000.0
+Periodo --> 14	Fri Mar 21 18:02:23 BRT 2014	2000.0
+Periodo --> 15	Fri Mar 21 18:02:24 BRT 2014	2000.0
+Periodo --> 16	Fri Mar 21 18:02:24 BRT 2014	2000.0
+Periodo --> 17	Fri Mar 21 18:02:24 BRT 2014	2000.0
+Periodo --> 18	Fri Mar 21 18:02:24 BRT 2014	2000.0
+Periodo --> 19	Fri Mar 21 18:02:24 BRT 2014	2000.0

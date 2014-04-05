@@ -1,0 +1,2 @@
+Stock|Operation|Amount|Total Cost|Return %|current Value|Period|OpeningMoney|Account|AutoSeller
+total = |0|0|0|0|0|1|2000.00|jocker|false

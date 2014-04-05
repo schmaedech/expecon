@@ -1,0 +1,27 @@
+Dados do m
+TABELA DE OPERAÇÕES
+PERIODO	OPERACAO	ATIVO	QUANTIDADE	PREÇO ATUAL
+#-----------------------------------------------------------
+TABELA DA CARTEIRA DE INVESTIMENTOS
+TEMPO	LIVRE PARA OPERAR
+PERIODO	ATIVO	CUSTO DO LOTE	VALOR ATUAL
+Começou---->	Mon Mar 24 19:03:44 CET 2014	2000.0
+Periodo --> 1	Mon Mar 24 19:03:45 CET 2014	2000.0
+Periodo --> 2	Mon Mar 24 19:03:45 CET 2014	2000.0
+Periodo --> 3	Mon Mar 24 19:03:45 CET 2014	2000.0
+Periodo --> 4	Mon Mar 24 19:03:50 CET 2014	2000.0
+Periodo --> 5	Mon Mar 24 19:03:50 CET 2014	2000.0
+Periodo --> 6	Mon Mar 24 19:03:50 CET 2014	2000.0
+Periodo --> 7	Mon Mar 24 19:03:50 CET 2014	2000.0
+Periodo --> 8	Mon Mar 24 19:03:50 CET 2014	2000.0
+Periodo --> 9	Mon Mar 24 19:03:51 CET 2014	2000.0
+Periodo --> 10	Mon Mar 24 19:03:51 CET 2014	2000.0
+Periodo --> 11	Mon Mar 24 19:03:51 CET 2014	2000.0
+Periodo --> 12	Mon Mar 24 19:03:51 CET 2014	2000.0
+Periodo --> 13	Mon Mar 24 19:03:51 CET 2014	2000.0
+Periodo --> 14	Mon Mar 24 19:03:52 CET 2014	2000.0
+Periodo --> 15	Mon Mar 24 19:03:52 CET 2014	2000.0
+Periodo --> 16	Mon Mar 24 19:03:52 CET 2014	2000.0
+Periodo --> 17	Mon Mar 24 19:03:52 CET 2014	2000.0
+Periodo --> 18	Mon Mar 24 19:03:52 CET 2014	2000.0
+Periodo --> 19	Mon Mar 24 19:03:52 CET 2014	2000.0
